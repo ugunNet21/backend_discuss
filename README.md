@@ -2,5 +2,5 @@
 ini adalah back-end aplikasi chat flutter
 
 gambar chat
-![image.jpg]( {https://drive.google.com/file/d/1TLZhJ8xXBY9hFwkYbO7-Ar3RH6zrum4Z/view?usp=sharing} )
+![image.png]( {https://github.com/ugunNet21/backend_discuss/blob/master/doc/chat%20flutter.png} )
 
